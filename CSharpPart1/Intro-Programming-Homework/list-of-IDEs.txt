@@ -1,0 +1,11 @@
+1.Eclipse -
+ an open-source IDE written in Java. Very comprehensive and contains intellisense, automated refactoring , code completion, and enhanced browsing tools for Java and other languages.
+
+2.NetBeans - 
+ a Java IDE from Sun which uses SWING (and thus has a non-native and quirky look-and-feel) with good support for Java and support for other languages, including C and C++.
+
+3.SharpDevelop and MonoDevelop - open-source IDEs for Microsoft .NET / Mono.
+
+4.The Eric Python IDE - a “full featured Python and Ruby editor and IDE, written in Python”.
+
+5.Padre, the Perl IDE - an open-source IDE written in Perl, and intended primarily for Perl development.
